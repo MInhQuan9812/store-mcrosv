@@ -1,0 +1,73 @@
+# .NET
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.idb
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+.vscode/
+
+# ASP.NET Core
+wwwroot/lib/
+wwwroot/css/
+wwwroot/js/
+wwwroot/images/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio
+.vs/
+*.ncb
+*.sdf
+*.suo
+*.opensdf
+*.user
+*.userprefs
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+
+# NuGet
+*.nupkg
+*.snupkg
+*.symbols.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Aa][Rr][Mm]/
+**/bin/
+**/obj/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Publish folder
+publish/
+
+# Rider
+.idea/
+
+# Others
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
